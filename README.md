@@ -1,0 +1,2 @@
+# minz
+scripts
