@@ -1,0 +1,1 @@
+select data,time,number,rating,citata from bash where rating in (select max(rating) from bash group by data);
